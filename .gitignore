@@ -1,0 +1,30 @@
+# Xcode
+# ---------
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.moved-aside
+DerivedData/
+
+# Swift Package Manager
+# ---------
+.build/
+.swiftpm/
+Package.resolved
+
+# Dependency Managers
+# ---------
+Pods/
+Carthage/Checkouts/
+Carthage/Build/
+
+# macOS
+# ---------
+.DS_Store
