@@ -5,7 +5,9 @@ Welcome to my Carpool App! This is a personal side project I am building in my f
 The goal of this project isn't to launch the next Uber, but rather to deeply understand modern iOS architecture, UI/UX implementation, and Apple's native frameworks.
 
 🎨 **UI/UX Design:** I believe great apps start with great design. Before writing any code, I designed the user flows and interface. You can check out my design work here: 
-**[View my Figma Design File]([YOUR_FIGMA_LINK_HERE](https://www.figma.com/design/ztXaqxTpHmq2EUJfmDJ0m1/Carpool-app--Copy---Copy-?node-id=0-1&t=XHIS0Aa6Ye0IEOUs-1))**
+
+**[View my Figma Design File](https://www.figma.com/design/ztXaqxTpHmq2EUJfmDJ0m1/Carpool-app--Copy---Copy-?node-id=0-1&t=XHIS0Aa6Ye0IEOUs-1)**
+
 **[Prototype for illustrating interaction](https://www.figma.com/proto/lB07ltLcPAjF5Vgz1VCjXM/Carpool-app--Copy-?node-id=2-25&p=f&viewport=1131%2C599%2C0.09&t=nHLlCDZ8GwcYq288-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A25&show-proto-sidebar=1&page-id=0%3A1)**
 
 ---
