@@ -14,7 +14,7 @@ struct MainTabView: View {
             }
             
             // Tab 2: Rides
-            RidesView()
+            RidesView(rides: Ride.samples)
             .tabItem {
                 Label("Rides", systemImage: "car.2.fill")
             }
