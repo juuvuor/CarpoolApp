@@ -14,11 +14,7 @@ struct MainTabView: View {
             }
             
             // Tab 2: Rides
-            VStack {
-                Image(systemName: "car")
-                    .font(.largeTitle)
-                Text("My Rides")
-            }
+            RidesView(rides: Ride.samples)
             .tabItem {
                 Label("Rides", systemImage: "car.2.fill")
             }
