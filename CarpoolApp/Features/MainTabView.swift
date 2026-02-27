@@ -19,7 +19,13 @@ struct MainTabView: View {
                 Label("Rides", systemImage: "car.2.fill")
             }
             
-            // Tab 3: Profile
+            // Tab 3: Messages
+            MessagesView()
+            .tabItem {
+                Label("Messages", systemImage: "message.fill")
+            }
+            
+            // Tab 4: Profile
             VStack {
                 Image(systemName: "person")
                     .font(.largeTitle)
